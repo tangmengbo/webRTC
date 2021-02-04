@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-WebRTCDemo/Pods-WebRTCDemo-frameworks.sh
+${PODS_ROOT}/GoogleWebRTC/Frameworks/frameworks/WebRTC.framework
+${BUILT_PRODUCTS_DIR}/SocketRocket/SocketRocket.framework
